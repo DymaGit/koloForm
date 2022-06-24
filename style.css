@@ -1,0 +1,30 @@
+
+body{
+
+ background-color: rgb(15, 15, 15);  
+}
+
+button {
+
+    width:130px;
+}
+
+#bg-form {
+    background-color: rgb(135, 171, 197);
+    border-radius: 10px;
+}
+
+.width-num {
+    height: 30px;
+}
+
+h1{
+color: aliceblue;
+
+}
+option {
+ 
+    font-size: 1em;
+}
+
+
